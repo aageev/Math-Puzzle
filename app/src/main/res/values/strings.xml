@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Math Puzzle</string>
+    <string name="action_settings">Settings</string>
+    <string name="header">Fill in the blank cells with single digits to make all expressions true</string>
+</resources>
